@@ -1,11 +1,12 @@
-
-{
-    "user_id": "U076720864016827",
-    "restaurant_name": "พร้อมคอฟฟี่",
-    "recommended_restaurant": 1954805
-},
-{
-    "user_id": "U613826687834415",
-    "restaurant_name": "Katanyu baked & coffee",
-    "recommended_restaurant": 830675
-}
+[
+    {
+        "user_id": "U076720864016827",
+        "restaurant_name": "พร้อมคอฟฟี่",
+        "recommended_restaurant": 1954805
+    },
+    {
+        "user_id": "U613826687834415",
+        "restaurant_name": "Katanyu baked & coffee",
+        "recommended_restaurant": 830675
+    }
+]
